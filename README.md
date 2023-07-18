@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BibTex.svg" alt="wakatime" />
+</p>
+
 My BibTex File Backup.
 
 <div align="center">
