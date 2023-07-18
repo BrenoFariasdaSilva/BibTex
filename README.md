@@ -4,15 +4,15 @@
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BibTex.svg" alt="wakatime" />
-</p>
-
 <div align="center">
   
 My BibTex File Backup.
 
 </div>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BibTex.svg" alt="wakatime" />
+</p>
 
 <div align="center">
 
