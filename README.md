@@ -1,6 +1,6 @@
 <div align="center">
   
-# [BibTex.](https://github.com/BrenoFariasdaSilva/bibtex)
+# [BibTex.](https://github.com/BrenoFariasdaSilva/bibtex) <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/BibTeX_logo.svg"  width="8%" height="8%">
 
 </div>
 
