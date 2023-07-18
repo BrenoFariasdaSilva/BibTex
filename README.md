@@ -1,6 +1,6 @@
 <div align="center">
   
-# [BibTex](https://github.com/BrenoFariasdaSilva/bibtex)
+# [BibTex.](https://github.com/BrenoFariasdaSilva/bibtex)
 
 </div>
 
