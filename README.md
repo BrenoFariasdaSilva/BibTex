@@ -13,9 +13,13 @@ My BibTex File Backup.
 ---
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BibTex.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BibTex)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/BibTex)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/BibTex.svg)
+
+</div>
 
 <div align="center">
 
