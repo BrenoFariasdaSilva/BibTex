@@ -15,8 +15,8 @@ My BibTex File Backup.
 
 <div align="center">
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BibTex)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/BibTex)
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/BibTex)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BibTex)
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/BibTex)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/BibTex.svg)
 
